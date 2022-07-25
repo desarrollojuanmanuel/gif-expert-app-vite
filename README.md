@@ -1,2 +1,2 @@
 # gif-expert-app-vite
-# ver app en https://cosmic-croissant-311d65.netlify.app/
+# ver app en https://git-expert-vite.netlify.app/
